@@ -7,7 +7,7 @@ Application web de gestion de playlists musicales. Stack : Flask · PostgreSQL �
 Docker Desktop doit être installé et démarré.
 
 
-git clone https://github.com/oliviaperet/gestion-playlists.git
+git clone https://github.com/oliviaperet/gestion-playlists.git.
 cd gestion-playlists
 docker compose up --build
 
