@@ -1,4 +1,3 @@
-# gestion-playlists
 # Gestionnaire de Playlists
 
 Application web de gestion de playlists musicales. Stack : Flask · PostgreSQL · React · Docker.
